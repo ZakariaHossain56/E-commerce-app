@@ -2,92 +2,66 @@
 ## flutter_ecommerce_app
 
 ### Project Snapshots
+<h1 style="text-align: center;">Image Gallery</h1>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Gallery</title>
-    <style>
-        .gallery {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            gap: 10px;
-            max-width: 800px;
-            margin: auto;
-            text-align: center;
-        }
-        .gallery-item {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .gallery img {
-            width: 100%;
-            height: auto;
-            border-radius: 8px;
-        }
-        .gallery p {
-            margin-top: 5px;
-            font-size: 14px;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <div class="gallery">
-        <div class="gallery-item">
-            <img src="/snapshots/signup.jpg" alt="Signup Page">
-            <p>Signup Page</p>
-        </div>
-        <div class="gallery-item">
-            <img src="/snapshots/login.jpg" alt="Login Page">
-            <p>Login Page</p>
-        </div>
-        <div class="gallery-item">
-            <img src="/snapshots/home_page.jpg" alt="Home Page">
-            <p>Home Page</p>
-        </div>
-        <div class="gallery-item">
-            <img src="/snapshots/product_by_category.jpg" alt="Products by Category">
-            <p>Products by Category</p>
-        </div>
-        <div class="gallery-item">
-            <img src="/snapshots/product_details.jpg" alt="Product Details">
-            <p>Product Details</p>
-        </div>
-        <div class="gallery-item">
-            <img src="/snapshots/favorites.jpg" alt="Favorites">
-            <p>Favorites</p>
-        </div>
-        <div class="gallery-item">
-            <img src="/snapshots/cart.jpg" alt="Cart">
-            <p>Cart</p>
-        </div>
-        <div class="gallery-item">
-            <img src="/snapshots/address_confirmation.jpg" alt="Address Confirmation">
-            <p>Address Confirmation</p>
-        </div>
-        <div class="gallery-item">
-            <img src="/snapshots/payment.jpg" alt="Payment">
-            <p>Payment(simulation)</p>
-        </div>
-        <div class="gallery-item">
-            <img src="/snapshots/profile.jpg" alt="Profile">
-            <p>Profile</p>
-        </div>
-        <div class="gallery-item">
-            <img src="/snapshots/order_tracking.jpg" alt="Order Tracking">
-            <p>Order Tracking(Simulation)</p>
-        </div>
-        <div class="gallery-item">
-            <img src="/snapshots/address.jpg" alt="Address">
-            <p>Address</p>
-        </div>
-    </div>
-</body>
-</html>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/ZakariaHossain56/E-commerce-app/raw/master/snapshots/signup.jpg" alt="Signup Page" width="200">
+      <p style="text-align: center;">Signup Page</p>
+    </td>
+    <td>
+      <img src="https://github.com/ZakariaHossain56/E-commerce-app/raw/master/snapshots/login.jpg" alt="Login Page" width="200">
+      <p style="text-align: center;">Login Page</p>
+    </td>
+    <td>
+      <img src="https://github.com/ZakariaHossain56/E-commerce-app/raw/master/snapshots/home_page.jpg" alt="Home Page" width="200">
+      <p style="text-align: center;">Home Page</p>
+    </td>
+    <td>
+      <img src="https://github.com/ZakariaHossain56/E-commerce-app/raw/master/snapshots/product_by_category.jpg" alt="Products by Category" width="200">
+      <p style="text-align: center;">Products by Category</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/ZakariaHossain56/E-commerce-app/raw/master/snapshots/product_details.jpg" alt="Product Details" width="200">
+      <p style="text-align: center;">Product Details</p>
+    </td>
+    <td>
+      <img src="https://github.com/ZakariaHossain56/E-commerce-app/raw/master/snapshots/favorites.jpg" alt="Favorites" width="200">
+      <p style="text-align: center;">Favorites</p>
+    </td>
+    <td>
+      <img src="https://github.com/ZakariaHossain56/E-commerce-app/raw/master/snapshots/cart.jpg" alt="Cart" width="200">
+      <p style="text-align: center;">Cart</p>
+    </td>
+    <td>
+      <img src="https://github.com/ZakariaHossain56/E-commerce-app/raw/master/snapshots/address_confirmation.jpg" alt="Address Confirmation" width="200">
+      <p style="text-align: center;">Address Confirmation</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/ZakariaHossain56/E-commerce-app/raw/master/snapshots/payment.jpg" alt="Payment" width="200">
+      <p style="text-align: center;">Payment (simulation)</p>
+    </td>
+    <td>
+      <img src="https://github.com/ZakariaHossain56/E-commerce-app/raw/master/snapshots/profile.jpg" alt="Profile" width="200">
+      <p style="text-align: center;">Profile</p>
+    </td>
+    <td>
+      <img src="https://github.com/ZakariaHossain56/E-commerce-app/raw/master/snapshots/order_tracking.jpg" alt="Order Tracking" width="200">
+      <p style="text-align: center;">Order Tracking (Simulation)</p>
+    </td>
+    <td>
+      <img src="https://github.com/ZakariaHossain56/E-commerce-app/raw/master/snapshots/address.jpg" alt="Address" width="200">
+      <p style="text-align: center;">Address</p>
+    </td>
+  </tr>
+</table>
+
+
 
 
 ### Directory Structure
