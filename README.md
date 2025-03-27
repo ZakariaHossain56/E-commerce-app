@@ -2,7 +2,6 @@
 ## flutter_ecommerce_app
 
 ### Project Snapshots
-<h1 style="text-align: center;">Image Gallery</h1>
 
 <table>
   <tr>
