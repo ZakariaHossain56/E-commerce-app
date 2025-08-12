@@ -1,5 +1,6 @@
 
 ## flutter_ecommerce_app
+A production-ready e-commerce app with seamless shopping and a powerful admin panel for managing products and orders.
 
 ### Project Snapshots
 
